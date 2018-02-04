@@ -22,7 +22,8 @@
 ------------
 
 TODAY Date:    27
-\nTODAY Month:  1
+
+TODAY Month:  1
 TODAY Year:  2018
 Long of Transplant: 50
 Wide of Transplant: 25
