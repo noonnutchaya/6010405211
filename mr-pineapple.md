@@ -33,7 +33,7 @@ Wide of Transplant: 25
 
 How many raining days before today? : 2
 
-
+___________________________
 You must use 15 l. for this transplant.  [ from : (20 x 25) x 0.012 ]
 
 And must water next time on 29/1/2018. 
